@@ -1,0 +1,33 @@
+يرجى تحميل الصور التالية وحفظها في هذا المجلد (public\logos):
+
+1. Check Point:
+   - اسم الملف: checkpoint.png
+   - ابحث في Google عن: "Check Point logo PNG"
+   - أو من الموقع الرسمي: https://www.checkpoint.com
+
+2. Palo Alto Networks:
+   - اسم الملف: paloalto.png
+   - ابحث في Google عن: "Palo Alto Networks logo PNG"
+   - أو من الموقع الرسمي: https://www.paloaltonetworks.com
+
+3. Sophos:
+   - اسم الملف: sophos.png
+   - ابحث في Google عن: "Sophos logo PNG"
+   - أو من الموقع الرسمي: https://www.sophos.com
+
+4. McAfee:
+   - اسم الملف: mcafee.png
+   - ابحث في Google عن: "McAfee logo PNG"
+   - أو من الموقع الرسمي: https://www.mcafee.com
+
+5. Kaspersky:
+   - اسم الملف: kaspersky.png
+   - ابحث في Google عن: "Kaspersky logo PNG"
+   - أو من الموقع الرسمي: https://www.kaspersky.com
+
+6. Trend Micro:
+   - اسم الملف: trendmicro.png
+   - ابحث في Google عن: "Trend Micro logo PNG"
+   - أو من الموقع الرسمي: https://www.trendmicro.com
+
+بعد تحميل جميع الصور، سيظهر الموقع بشكل صحيح!
